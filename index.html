@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentiment Analysis Using Text Mining</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<main class="page">
+  <section class="hero">
+    <div class="badge">TEXT MINING • NLP • MACHINE LEARNING</div>
+    <h1>Sentiment Analysis<br><span>Using Text Mining</span></h1>
+    <p>Enter any text and discover both its overall sentiment and the specific emotion expressed.</p>
+  </section>
+
+  <section class="card input-card">
+    <div class="section-title">
+      <div class="icon">✦</div>
+      <div>
+        <h2>Enter Your Text</h2>
+        <p>Write a review, sentence, or any short message.</p>
+      </div>
+    </div>
+    <textarea id="textInput" maxlength="5000" placeholder="Write or paste your text here..."></textarea>
+    <div class="input-footer">
+      <span id="charCount">0 / 5000</span>
+      <button id="analyzeBtn" type="button">Analyze Sentiment <span>→</span></button>
+    </div>
+    <div id="errorBox" class="error hidden"></div>
+  </section>
+
+  <section id="resultSection" class="hidden">
+    <div class="card text-result-card">
+      <div class="small-label">ANALYSIS RESULT</div>
+      <h2>Your Text</h2>
+      <blockquote id="userText"></blockquote>
+    </div>
+
+    <div class="result-grid two-cards">
+      <div class="card result-card">
+        <div class="small-label">SENTIMENT</div>
+        <div class="result-main">
+          <div id="sentimentEmoji" class="result-emoji">😊</div>
+          <div>
+            <div id="sentimentLabel" class="result-label">POSITIVE</div>
+            <div class="confidence">Confidence: <strong id="sentimentConfidence">0%</strong></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card result-card">
+        <div class="small-label">DETECTED EMOTION</div>
+        <div class="result-main">
+          <div id="emotionEmoji" class="result-emoji">😄</div>
+          <div>
+            <div id="emotionLabel" class="result-label">HAPPY</div>
+            <div class="confidence">Confidence: <strong id="emotionConfidence">0%</strong></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="result-grid chart-grid">
+      <div class="card chart-card">
+        <div class="small-label">SENTIMENT PROBABILITY</div>
+        <h2>Sentiment Analysis</h2>
+        <div class="chart-wrap sentiment-chart-wrap">
+          <canvas id="sentimentChart"></canvas>
+        </div>
+      </div>
+
+      <div class="card chart-card">
+        <div class="small-label">EMOTION PROBABILITY</div>
+        <h2>Emotion Analysis</h2>
+        <div class="chart-wrap emotion-chart-wrap">
+          <canvas id="emotionChart"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% if metrics %}
+  <section class="metrics-section">
+    <div class="card metrics-card">
+      <div class="small-label">SENTIMENT MODEL</div>
+      <h2>Training Performance</h2>
+      <div class="metrics">
+        <div><span>Accuracy</span><strong>{{ "%.2f"|format(metrics.get("sentiment", {}).get("accuracy", 0) * 100) }}%</strong></div>
+        <div><span>Precision</span><strong>{{ "%.2f"|format(metrics.get("sentiment", {}).get("precision_weighted", 0) * 100) }}%</strong></div>
+        <div><span>Recall</span><strong>{{ "%.2f"|format(metrics.get("sentiment", {}).get("recall_weighted", 0) * 100) }}%</strong></div>
+        <div><span>F1-score</span><strong>{{ "%.2f"|format(metrics.get("sentiment", {}).get("f1_weighted", 0) * 100) }}%</strong></div>
+      </div>
+    </div>
+
+    <div class="card metrics-card">
+      <div class="small-label">EMOTION MODEL</div>
+      <h2>Training Performance</h2>
+      <div class="metrics">
+        <div><span>Accuracy</span><strong>{{ "%.2f"|format(metrics.get("emotion", {}).get("accuracy", 0) * 100) }}%</strong></div>
+        <div><span>Precision</span><strong>{{ "%.2f"|format(metrics.get("emotion", {}).get("precision_weighted", 0) * 100) }}%</strong></div>
+        <div><span>Recall</span><strong>{{ "%.2f"|format(metrics.get("emotion", {}).get("recall_weighted", 0) * 100) }}%</strong></div>
+        <div><span>F1-score</span><strong>{{ "%.2f"|format(metrics.get("emotion", {}).get("f1_weighted", 0) * 100) }}%</strong></div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <footer>
+    <span>Sentiment Analysis Using Text Mining</span>
+    <span>Flask + NLTK + TF-IDF + Logistic Regression</span>
+  </footer>
+</main>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

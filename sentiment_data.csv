@@ -1,0 +1,841 @@
+text,sentiment
+The movie was amazing.,positive
+I am very happy with the movie; it was amazing.,positive
+The movie was excellent.,positive
+I am very happy with the movie; it was excellent.,positive
+The movie was fantastic.,positive
+I am very happy with the movie; it was fantastic.,positive
+The movie was wonderful.,positive
+I am very happy with the movie; it was wonderful.,positive
+The movie was brilliant.,positive
+I am very happy with the movie; it was brilliant.,positive
+The movie was outstanding.,positive
+I am very happy with the movie; it was outstanding.,positive
+The movie was pleasant.,positive
+I am very happy with the movie; it was pleasant.,positive
+The movie was reliable.,positive
+I am very happy with the movie; it was reliable.,positive
+The movie was useful.,positive
+I am very happy with the movie; it was useful.,positive
+The movie was impressive.,positive
+I am very happy with the movie; it was impressive.,positive
+The movie was smooth.,positive
+I am very happy with the movie; it was smooth.,positive
+The movie was perfect.,positive
+I am very happy with the movie; it was perfect.,positive
+The movie was delightful.,positive
+I am very happy with the movie; it was delightful.,positive
+The movie was great.,positive
+I am very happy with the movie; it was great.,positive
+The movie was effective.,positive
+I am very happy with the movie; it was effective.,positive
+The movie was comfortable.,positive
+I am very happy with the movie; it was comfortable.,positive
+The movie was helpful.,positive
+I am very happy with the movie; it was helpful.,positive
+The movie was fast.,positive
+I am very happy with the movie; it was fast.,positive
+The movie was beautiful.,positive
+I am very happy with the movie; it was beautiful.,positive
+The movie was satisfying.,positive
+I am very happy with the movie; it was satisfying.,positive
+The product was amazing.,positive
+I am very happy with the product; it was amazing.,positive
+The product was excellent.,positive
+I am very happy with the product; it was excellent.,positive
+The product was fantastic.,positive
+I am very happy with the product; it was fantastic.,positive
+The product was wonderful.,positive
+I am very happy with the product; it was wonderful.,positive
+The product was brilliant.,positive
+I am very happy with the product; it was brilliant.,positive
+The product was outstanding.,positive
+I am very happy with the product; it was outstanding.,positive
+The product was pleasant.,positive
+I am very happy with the product; it was pleasant.,positive
+The product was reliable.,positive
+I am very happy with the product; it was reliable.,positive
+The product was useful.,positive
+I am very happy with the product; it was useful.,positive
+The product was impressive.,positive
+I am very happy with the product; it was impressive.,positive
+The product was smooth.,positive
+I am very happy with the product; it was smooth.,positive
+The product was perfect.,positive
+I am very happy with the product; it was perfect.,positive
+The product was delightful.,positive
+I am very happy with the product; it was delightful.,positive
+The product was great.,positive
+I am very happy with the product; it was great.,positive
+The product was effective.,positive
+I am very happy with the product; it was effective.,positive
+The product was comfortable.,positive
+I am very happy with the product; it was comfortable.,positive
+The product was helpful.,positive
+I am very happy with the product; it was helpful.,positive
+The product was fast.,positive
+I am very happy with the product; it was fast.,positive
+The product was beautiful.,positive
+I am very happy with the product; it was beautiful.,positive
+The product was satisfying.,positive
+I am very happy with the product; it was satisfying.,positive
+The service was amazing.,positive
+I am very happy with the service; it was amazing.,positive
+The service was excellent.,positive
+I am very happy with the service; it was excellent.,positive
+The service was fantastic.,positive
+I am very happy with the service; it was fantastic.,positive
+The service was wonderful.,positive
+I am very happy with the service; it was wonderful.,positive
+The service was brilliant.,positive
+I am very happy with the service; it was brilliant.,positive
+The service was outstanding.,positive
+I am very happy with the service; it was outstanding.,positive
+The service was pleasant.,positive
+I am very happy with the service; it was pleasant.,positive
+The service was reliable.,positive
+I am very happy with the service; it was reliable.,positive
+The service was useful.,positive
+I am very happy with the service; it was useful.,positive
+The service was impressive.,positive
+I am very happy with the service; it was impressive.,positive
+The service was smooth.,positive
+I am very happy with the service; it was smooth.,positive
+The service was perfect.,positive
+I am very happy with the service; it was perfect.,positive
+The service was delightful.,positive
+I am very happy with the service; it was delightful.,positive
+The service was great.,positive
+I am very happy with the service; it was great.,positive
+The service was effective.,positive
+I am very happy with the service; it was effective.,positive
+The service was comfortable.,positive
+I am very happy with the service; it was comfortable.,positive
+The service was helpful.,positive
+I am very happy with the service; it was helpful.,positive
+The service was fast.,positive
+I am very happy with the service; it was fast.,positive
+The service was beautiful.,positive
+I am very happy with the service; it was beautiful.,positive
+The service was satisfying.,positive
+I am very happy with the service; it was satisfying.,positive
+The app was amazing.,positive
+I am very happy with the app; it was amazing.,positive
+The app was excellent.,positive
+I am very happy with the app; it was excellent.,positive
+The app was fantastic.,positive
+I am very happy with the app; it was fantastic.,positive
+The app was wonderful.,positive
+I am very happy with the app; it was wonderful.,positive
+The app was brilliant.,positive
+I am very happy with the app; it was brilliant.,positive
+The app was outstanding.,positive
+I am very happy with the app; it was outstanding.,positive
+The app was pleasant.,positive
+I am very happy with the app; it was pleasant.,positive
+The app was reliable.,positive
+I am very happy with the app; it was reliable.,positive
+The app was useful.,positive
+I am very happy with the app; it was useful.,positive
+The app was impressive.,positive
+I am very happy with the app; it was impressive.,positive
+The app was smooth.,positive
+I am very happy with the app; it was smooth.,positive
+The app was perfect.,positive
+I am very happy with the app; it was perfect.,positive
+The app was delightful.,positive
+I am very happy with the app; it was delightful.,positive
+The app was great.,positive
+I am very happy with the app; it was great.,positive
+The app was effective.,positive
+I am very happy with the app; it was effective.,positive
+The app was comfortable.,positive
+I am very happy with the app; it was comfortable.,positive
+The app was helpful.,positive
+I am very happy with the app; it was helpful.,positive
+The app was fast.,positive
+I am very happy with the app; it was fast.,positive
+The app was beautiful.,positive
+I am very happy with the app; it was beautiful.,positive
+The app was satisfying.,positive
+I am very happy with the app; it was satisfying.,positive
+The hotel was amazing.,positive
+I am very happy with the hotel; it was amazing.,positive
+The hotel was excellent.,positive
+I am very happy with the hotel; it was excellent.,positive
+The hotel was fantastic.,positive
+I am very happy with the hotel; it was fantastic.,positive
+The hotel was wonderful.,positive
+I am very happy with the hotel; it was wonderful.,positive
+The hotel was brilliant.,positive
+I am very happy with the hotel; it was brilliant.,positive
+The hotel was outstanding.,positive
+I am very happy with the hotel; it was outstanding.,positive
+The hotel was pleasant.,positive
+I am very happy with the hotel; it was pleasant.,positive
+The hotel was reliable.,positive
+I am very happy with the hotel; it was reliable.,positive
+The hotel was useful.,positive
+I am very happy with the hotel; it was useful.,positive
+The hotel was impressive.,positive
+I am very happy with the hotel; it was impressive.,positive
+The hotel was smooth.,positive
+I am very happy with the hotel; it was smooth.,positive
+The hotel was perfect.,positive
+I am very happy with the hotel; it was perfect.,positive
+The hotel was delightful.,positive
+I am very happy with the hotel; it was delightful.,positive
+The hotel was great.,positive
+I am very happy with the hotel; it was great.,positive
+The hotel was effective.,positive
+I am very happy with the hotel; it was effective.,positive
+The hotel was comfortable.,positive
+I am very happy with the hotel; it was comfortable.,positive
+The hotel was helpful.,positive
+I am very happy with the hotel; it was helpful.,positive
+The hotel was fast.,positive
+I am very happy with the hotel; it was fast.,positive
+The hotel was beautiful.,positive
+I am very happy with the hotel; it was beautiful.,positive
+The hotel was satisfying.,positive
+I am very happy with the hotel; it was satisfying.,positive
+The course was amazing.,positive
+I am very happy with the course; it was amazing.,positive
+The course was excellent.,positive
+I am very happy with the course; it was excellent.,positive
+The course was fantastic.,positive
+I am very happy with the course; it was fantastic.,positive
+The course was wonderful.,positive
+I am very happy with the course; it was wonderful.,positive
+The course was brilliant.,positive
+I am very happy with the course; it was brilliant.,positive
+The course was outstanding.,positive
+I am very happy with the course; it was outstanding.,positive
+The course was pleasant.,positive
+I am very happy with the course; it was pleasant.,positive
+The course was reliable.,positive
+I am very happy with the course; it was reliable.,positive
+The course was useful.,positive
+I am very happy with the course; it was useful.,positive
+The course was impressive.,positive
+I am very happy with the course; it was impressive.,positive
+The course was smooth.,positive
+I am very happy with the course; it was smooth.,positive
+The course was perfect.,positive
+I am very happy with the course; it was perfect.,positive
+The course was delightful.,positive
+I am very happy with the course; it was delightful.,positive
+The course was great.,positive
+I am very happy with the course; it was great.,positive
+The course was effective.,positive
+I am very happy with the course; it was effective.,positive
+The course was comfortable.,positive
+I am very happy with the course; it was comfortable.,positive
+The course was helpful.,positive
+I am very happy with the course; it was helpful.,positive
+The course was fast.,positive
+I am very happy with the course; it was fast.,positive
+The course was beautiful.,positive
+I am very happy with the course; it was beautiful.,positive
+The course was satisfying.,positive
+I am very happy with the course; it was satisfying.,positive
+The restaurant was amazing.,positive
+I am very happy with the restaurant; it was amazing.,positive
+The restaurant was excellent.,positive
+I am very happy with the restaurant; it was excellent.,positive
+The restaurant was fantastic.,positive
+I am very happy with the restaurant; it was fantastic.,positive
+The restaurant was wonderful.,positive
+I am very happy with the restaurant; it was wonderful.,positive
+The restaurant was brilliant.,positive
+I am very happy with the restaurant; it was brilliant.,positive
+The restaurant was outstanding.,positive
+I am very happy with the restaurant; it was outstanding.,positive
+The restaurant was pleasant.,positive
+I am very happy with the restaurant; it was pleasant.,positive
+The restaurant was reliable.,positive
+I am very happy with the restaurant; it was reliable.,positive
+The restaurant was useful.,positive
+I am very happy with the restaurant; it was useful.,positive
+The restaurant was impressive.,positive
+I am very happy with the restaurant; it was impressive.,positive
+The restaurant was smooth.,positive
+I am very happy with the restaurant; it was smooth.,positive
+The restaurant was perfect.,positive
+I am very happy with the restaurant; it was perfect.,positive
+The restaurant was delightful.,positive
+I am very happy with the restaurant; it was delightful.,positive
+The restaurant was great.,positive
+I am very happy with the restaurant; it was great.,positive
+The restaurant was effective.,positive
+I am very happy with the restaurant; it was effective.,positive
+The restaurant was comfortable.,positive
+I am very happy with the restaurant; it was comfortable.,positive
+The restaurant was helpful.,positive
+I am very happy with the restaurant; it was helpful.,positive
+The restaurant was fast.,positive
+I am very happy with the restaurant; it was fast.,positive
+The restaurant was beautiful.,positive
+I am very happy with the restaurant; it was beautiful.,positive
+The restaurant was satisfying.,positive
+I am very happy with the restaurant; it was satisfying.,positive
+The website was amazing.,positive
+I am very happy with the website; it was amazing.,positive
+The website was excellent.,positive
+I am very happy with the website; it was excellent.,positive
+The website was fantastic.,positive
+I am very happy with the website; it was fantastic.,positive
+The website was wonderful.,positive
+I am very happy with the website; it was wonderful.,positive
+The website was brilliant.,positive
+I am very happy with the website; it was brilliant.,positive
+The website was outstanding.,positive
+I am very happy with the website; it was outstanding.,positive
+The website was pleasant.,positive
+I am very happy with the website; it was pleasant.,positive
+The website was reliable.,positive
+I am very happy with the website; it was reliable.,positive
+The website was useful.,positive
+I am very happy with the website; it was useful.,positive
+The website was impressive.,positive
+I am very happy with the website; it was impressive.,positive
+The movie was terrible.,negative
+I am very disappointed with the movie; it was terrible.,negative
+The movie was awful.,negative
+I am very disappointed with the movie; it was awful.,negative
+The movie was horrible.,negative
+I am very disappointed with the movie; it was horrible.,negative
+The movie was poor.,negative
+I am very disappointed with the movie; it was poor.,negative
+The movie was disappointing.,negative
+I am very disappointed with the movie; it was disappointing.,negative
+The movie was unpleasant.,negative
+I am very disappointed with the movie; it was unpleasant.,negative
+The movie was unreliable.,negative
+I am very disappointed with the movie; it was unreliable.,negative
+The movie was useless.,negative
+I am very disappointed with the movie; it was useless.,negative
+The movie was confusing.,negative
+I am very disappointed with the movie; it was confusing.,negative
+The movie was slow.,negative
+I am very disappointed with the movie; it was slow.,negative
+The movie was broken.,negative
+I am very disappointed with the movie; it was broken.,negative
+The movie was frustrating.,negative
+I am very disappointed with the movie; it was frustrating.,negative
+The movie was bad.,negative
+I am very disappointed with the movie; it was bad.,negative
+The movie was ineffective.,negative
+I am very disappointed with the movie; it was ineffective.,negative
+The movie was uncomfortable.,negative
+I am very disappointed with the movie; it was uncomfortable.,negative
+The movie was rude.,negative
+I am very disappointed with the movie; it was rude.,negative
+The movie was damaged.,negative
+I am very disappointed with the movie; it was damaged.,negative
+The movie was ugly.,negative
+I am very disappointed with the movie; it was ugly.,negative
+The movie was annoying.,negative
+I am very disappointed with the movie; it was annoying.,negative
+The movie was unsatisfying.,negative
+I am very disappointed with the movie; it was unsatisfying.,negative
+The product was terrible.,negative
+I am very disappointed with the product; it was terrible.,negative
+The product was awful.,negative
+I am very disappointed with the product; it was awful.,negative
+The product was horrible.,negative
+I am very disappointed with the product; it was horrible.,negative
+The product was poor.,negative
+I am very disappointed with the product; it was poor.,negative
+The product was disappointing.,negative
+I am very disappointed with the product; it was disappointing.,negative
+The product was unpleasant.,negative
+I am very disappointed with the product; it was unpleasant.,negative
+The product was unreliable.,negative
+I am very disappointed with the product; it was unreliable.,negative
+The product was useless.,negative
+I am very disappointed with the product; it was useless.,negative
+The product was confusing.,negative
+I am very disappointed with the product; it was confusing.,negative
+The product was slow.,negative
+I am very disappointed with the product; it was slow.,negative
+The product was broken.,negative
+I am very disappointed with the product; it was broken.,negative
+The product was frustrating.,negative
+I am very disappointed with the product; it was frustrating.,negative
+The product was bad.,negative
+I am very disappointed with the product; it was bad.,negative
+The product was ineffective.,negative
+I am very disappointed with the product; it was ineffective.,negative
+The product was uncomfortable.,negative
+I am very disappointed with the product; it was uncomfortable.,negative
+The product was rude.,negative
+I am very disappointed with the product; it was rude.,negative
+The product was damaged.,negative
+I am very disappointed with the product; it was damaged.,negative
+The product was ugly.,negative
+I am very disappointed with the product; it was ugly.,negative
+The product was annoying.,negative
+I am very disappointed with the product; it was annoying.,negative
+The product was unsatisfying.,negative
+I am very disappointed with the product; it was unsatisfying.,negative
+The service was terrible.,negative
+I am very disappointed with the service; it was terrible.,negative
+The service was awful.,negative
+I am very disappointed with the service; it was awful.,negative
+The service was horrible.,negative
+I am very disappointed with the service; it was horrible.,negative
+The service was poor.,negative
+I am very disappointed with the service; it was poor.,negative
+The service was disappointing.,negative
+I am very disappointed with the service; it was disappointing.,negative
+The service was unpleasant.,negative
+I am very disappointed with the service; it was unpleasant.,negative
+The service was unreliable.,negative
+I am very disappointed with the service; it was unreliable.,negative
+The service was useless.,negative
+I am very disappointed with the service; it was useless.,negative
+The service was confusing.,negative
+I am very disappointed with the service; it was confusing.,negative
+The service was slow.,negative
+I am very disappointed with the service; it was slow.,negative
+The service was broken.,negative
+I am very disappointed with the service; it was broken.,negative
+The service was frustrating.,negative
+I am very disappointed with the service; it was frustrating.,negative
+The service was bad.,negative
+I am very disappointed with the service; it was bad.,negative
+The service was ineffective.,negative
+I am very disappointed with the service; it was ineffective.,negative
+The service was uncomfortable.,negative
+I am very disappointed with the service; it was uncomfortable.,negative
+The service was rude.,negative
+I am very disappointed with the service; it was rude.,negative
+The service was damaged.,negative
+I am very disappointed with the service; it was damaged.,negative
+The service was ugly.,negative
+I am very disappointed with the service; it was ugly.,negative
+The service was annoying.,negative
+I am very disappointed with the service; it was annoying.,negative
+The service was unsatisfying.,negative
+I am very disappointed with the service; it was unsatisfying.,negative
+The app was terrible.,negative
+I am very disappointed with the app; it was terrible.,negative
+The app was awful.,negative
+I am very disappointed with the app; it was awful.,negative
+The app was horrible.,negative
+I am very disappointed with the app; it was horrible.,negative
+The app was poor.,negative
+I am very disappointed with the app; it was poor.,negative
+The app was disappointing.,negative
+I am very disappointed with the app; it was disappointing.,negative
+The app was unpleasant.,negative
+I am very disappointed with the app; it was unpleasant.,negative
+The app was unreliable.,negative
+I am very disappointed with the app; it was unreliable.,negative
+The app was useless.,negative
+I am very disappointed with the app; it was useless.,negative
+The app was confusing.,negative
+I am very disappointed with the app; it was confusing.,negative
+The app was slow.,negative
+I am very disappointed with the app; it was slow.,negative
+The app was broken.,negative
+I am very disappointed with the app; it was broken.,negative
+The app was frustrating.,negative
+I am very disappointed with the app; it was frustrating.,negative
+The app was bad.,negative
+I am very disappointed with the app; it was bad.,negative
+The app was ineffective.,negative
+I am very disappointed with the app; it was ineffective.,negative
+The app was uncomfortable.,negative
+I am very disappointed with the app; it was uncomfortable.,negative
+The app was rude.,negative
+I am very disappointed with the app; it was rude.,negative
+The app was damaged.,negative
+I am very disappointed with the app; it was damaged.,negative
+The app was ugly.,negative
+I am very disappointed with the app; it was ugly.,negative
+The app was annoying.,negative
+I am very disappointed with the app; it was annoying.,negative
+The app was unsatisfying.,negative
+I am very disappointed with the app; it was unsatisfying.,negative
+The hotel was terrible.,negative
+I am very disappointed with the hotel; it was terrible.,negative
+The hotel was awful.,negative
+I am very disappointed with the hotel; it was awful.,negative
+The hotel was horrible.,negative
+I am very disappointed with the hotel; it was horrible.,negative
+The hotel was poor.,negative
+I am very disappointed with the hotel; it was poor.,negative
+The hotel was disappointing.,negative
+I am very disappointed with the hotel; it was disappointing.,negative
+The hotel was unpleasant.,negative
+I am very disappointed with the hotel; it was unpleasant.,negative
+The hotel was unreliable.,negative
+I am very disappointed with the hotel; it was unreliable.,negative
+The hotel was useless.,negative
+I am very disappointed with the hotel; it was useless.,negative
+The hotel was confusing.,negative
+I am very disappointed with the hotel; it was confusing.,negative
+The hotel was slow.,negative
+I am very disappointed with the hotel; it was slow.,negative
+The hotel was broken.,negative
+I am very disappointed with the hotel; it was broken.,negative
+The hotel was frustrating.,negative
+I am very disappointed with the hotel; it was frustrating.,negative
+The hotel was bad.,negative
+I am very disappointed with the hotel; it was bad.,negative
+The hotel was ineffective.,negative
+I am very disappointed with the hotel; it was ineffective.,negative
+The hotel was uncomfortable.,negative
+I am very disappointed with the hotel; it was uncomfortable.,negative
+The hotel was rude.,negative
+I am very disappointed with the hotel; it was rude.,negative
+The hotel was damaged.,negative
+I am very disappointed with the hotel; it was damaged.,negative
+The hotel was ugly.,negative
+I am very disappointed with the hotel; it was ugly.,negative
+The hotel was annoying.,negative
+I am very disappointed with the hotel; it was annoying.,negative
+The hotel was unsatisfying.,negative
+I am very disappointed with the hotel; it was unsatisfying.,negative
+The course was terrible.,negative
+I am very disappointed with the course; it was terrible.,negative
+The course was awful.,negative
+I am very disappointed with the course; it was awful.,negative
+The course was horrible.,negative
+I am very disappointed with the course; it was horrible.,negative
+The course was poor.,negative
+I am very disappointed with the course; it was poor.,negative
+The course was disappointing.,negative
+I am very disappointed with the course; it was disappointing.,negative
+The course was unpleasant.,negative
+I am very disappointed with the course; it was unpleasant.,negative
+The course was unreliable.,negative
+I am very disappointed with the course; it was unreliable.,negative
+The course was useless.,negative
+I am very disappointed with the course; it was useless.,negative
+The course was confusing.,negative
+I am very disappointed with the course; it was confusing.,negative
+The course was slow.,negative
+I am very disappointed with the course; it was slow.,negative
+The course was broken.,negative
+I am very disappointed with the course; it was broken.,negative
+The course was frustrating.,negative
+I am very disappointed with the course; it was frustrating.,negative
+The course was bad.,negative
+I am very disappointed with the course; it was bad.,negative
+The course was ineffective.,negative
+I am very disappointed with the course; it was ineffective.,negative
+The course was uncomfortable.,negative
+I am very disappointed with the course; it was uncomfortable.,negative
+The course was rude.,negative
+I am very disappointed with the course; it was rude.,negative
+The course was damaged.,negative
+I am very disappointed with the course; it was damaged.,negative
+The course was ugly.,negative
+I am very disappointed with the course; it was ugly.,negative
+The course was annoying.,negative
+I am very disappointed with the course; it was annoying.,negative
+The course was unsatisfying.,negative
+I am very disappointed with the course; it was unsatisfying.,negative
+The restaurant was terrible.,negative
+I am very disappointed with the restaurant; it was terrible.,negative
+The restaurant was awful.,negative
+I am very disappointed with the restaurant; it was awful.,negative
+The restaurant was horrible.,negative
+I am very disappointed with the restaurant; it was horrible.,negative
+The restaurant was poor.,negative
+I am very disappointed with the restaurant; it was poor.,negative
+The restaurant was disappointing.,negative
+I am very disappointed with the restaurant; it was disappointing.,negative
+The restaurant was unpleasant.,negative
+I am very disappointed with the restaurant; it was unpleasant.,negative
+The restaurant was unreliable.,negative
+I am very disappointed with the restaurant; it was unreliable.,negative
+The restaurant was useless.,negative
+I am very disappointed with the restaurant; it was useless.,negative
+The restaurant was confusing.,negative
+I am very disappointed with the restaurant; it was confusing.,negative
+The restaurant was slow.,negative
+I am very disappointed with the restaurant; it was slow.,negative
+The restaurant was broken.,negative
+I am very disappointed with the restaurant; it was broken.,negative
+The restaurant was frustrating.,negative
+I am very disappointed with the restaurant; it was frustrating.,negative
+The restaurant was bad.,negative
+I am very disappointed with the restaurant; it was bad.,negative
+The restaurant was ineffective.,negative
+I am very disappointed with the restaurant; it was ineffective.,negative
+The restaurant was uncomfortable.,negative
+I am very disappointed with the restaurant; it was uncomfortable.,negative
+The restaurant was rude.,negative
+I am very disappointed with the restaurant; it was rude.,negative
+The restaurant was damaged.,negative
+I am very disappointed with the restaurant; it was damaged.,negative
+The restaurant was ugly.,negative
+I am very disappointed with the restaurant; it was ugly.,negative
+The restaurant was annoying.,negative
+I am very disappointed with the restaurant; it was annoying.,negative
+The restaurant was unsatisfying.,negative
+I am very disappointed with the restaurant; it was unsatisfying.,negative
+The website was terrible.,negative
+I am very disappointed with the website; it was terrible.,negative
+The website was awful.,negative
+I am very disappointed with the website; it was awful.,negative
+The website was horrible.,negative
+I am very disappointed with the website; it was horrible.,negative
+The website was poor.,negative
+I am very disappointed with the website; it was poor.,negative
+The website was disappointing.,negative
+I am very disappointed with the website; it was disappointing.,negative
+The website was unpleasant.,negative
+I am very disappointed with the website; it was unpleasant.,negative
+The website was unreliable.,negative
+I am very disappointed with the website; it was unreliable.,negative
+The website was useless.,negative
+I am very disappointed with the website; it was useless.,negative
+The website was confusing.,negative
+I am very disappointed with the website; it was confusing.,negative
+The website was slow.,negative
+I am very disappointed with the website; it was slow.,negative
+The movie was delivered yesterday.,neutral
+The movie was available today.,neutral
+The movie was updated yesterday.,neutral
+The movie is located near the station.,neutral
+The movie has standard features.,neutral
+The movie costs fifty dollars.,neutral
+The movie contains several sections.,neutral
+The movie was released last month.,neutral
+The movie has five chapters.,neutral
+The movie starts at ten.,neutral
+The movie arrived this morning.,neutral
+The movie takes three days to deliver.,neutral
+The movie has a six inch screen.,neutral
+The movie was submitted today.,neutral
+The movie is scheduled for Friday.,neutral
+The movie uses a database.,neutral
+The movie runs on a server.,neutral
+The movie requires an internet connection.,neutral
+The movie has a login page.,neutral
+The movie was tested on Monday.,neutral
+The product was delivered yesterday.,neutral
+The product was available today.,neutral
+The product was updated yesterday.,neutral
+The product is located near the station.,neutral
+The product has standard features.,neutral
+The product costs fifty dollars.,neutral
+The product contains several sections.,neutral
+The product was released last month.,neutral
+The product has five chapters.,neutral
+The product starts at ten.,neutral
+The product arrived this morning.,neutral
+The product takes three days to deliver.,neutral
+The product has a six inch screen.,neutral
+The product was submitted today.,neutral
+The product is scheduled for Friday.,neutral
+The product uses a database.,neutral
+The product runs on a server.,neutral
+The product requires an internet connection.,neutral
+The product has a login page.,neutral
+The product was tested on Monday.,neutral
+The service was delivered yesterday.,neutral
+The service was available today.,neutral
+The service was updated yesterday.,neutral
+The service is located near the station.,neutral
+The service has standard features.,neutral
+The service costs fifty dollars.,neutral
+The service contains several sections.,neutral
+The service was released last month.,neutral
+The service has five chapters.,neutral
+The service starts at ten.,neutral
+The service arrived this morning.,neutral
+The service takes three days to deliver.,neutral
+The service has a six inch screen.,neutral
+The service was submitted today.,neutral
+The service is scheduled for Friday.,neutral
+The service uses a database.,neutral
+The service runs on a server.,neutral
+The service requires an internet connection.,neutral
+The service has a login page.,neutral
+The service was tested on Monday.,neutral
+The app was delivered yesterday.,neutral
+The app was available today.,neutral
+The app was updated yesterday.,neutral
+The app is located near the station.,neutral
+The app has standard features.,neutral
+The app costs fifty dollars.,neutral
+The app contains several sections.,neutral
+The app was released last month.,neutral
+The app has five chapters.,neutral
+The app starts at ten.,neutral
+The app arrived this morning.,neutral
+The app takes three days to deliver.,neutral
+The app has a six inch screen.,neutral
+The app was submitted today.,neutral
+The app is scheduled for Friday.,neutral
+The app uses a database.,neutral
+The app runs on a server.,neutral
+The app requires an internet connection.,neutral
+The app has a login page.,neutral
+The app was tested on Monday.,neutral
+The hotel was delivered yesterday.,neutral
+The hotel was available today.,neutral
+The hotel was updated yesterday.,neutral
+The hotel is located near the station.,neutral
+The hotel has standard features.,neutral
+The hotel costs fifty dollars.,neutral
+The hotel contains several sections.,neutral
+The hotel was released last month.,neutral
+The hotel has five chapters.,neutral
+The hotel starts at ten.,neutral
+The hotel arrived this morning.,neutral
+The hotel takes three days to deliver.,neutral
+The hotel has a six inch screen.,neutral
+The hotel was submitted today.,neutral
+The hotel is scheduled for Friday.,neutral
+The hotel uses a database.,neutral
+The hotel runs on a server.,neutral
+The hotel requires an internet connection.,neutral
+The hotel has a login page.,neutral
+The hotel was tested on Monday.,neutral
+The course was delivered yesterday.,neutral
+The course was available today.,neutral
+The course was updated yesterday.,neutral
+The course is located near the station.,neutral
+The course has standard features.,neutral
+The course costs fifty dollars.,neutral
+The course contains several sections.,neutral
+The course was released last month.,neutral
+The course has five chapters.,neutral
+The course starts at ten.,neutral
+The course arrived this morning.,neutral
+The course takes three days to deliver.,neutral
+The course has a six inch screen.,neutral
+The course was submitted today.,neutral
+The course is scheduled for Friday.,neutral
+The course uses a database.,neutral
+The course runs on a server.,neutral
+The course requires an internet connection.,neutral
+The course has a login page.,neutral
+The course was tested on Monday.,neutral
+The restaurant was delivered yesterday.,neutral
+The restaurant was available today.,neutral
+The restaurant was updated yesterday.,neutral
+The restaurant is located near the station.,neutral
+The restaurant has standard features.,neutral
+The restaurant costs fifty dollars.,neutral
+The restaurant contains several sections.,neutral
+The restaurant was released last month.,neutral
+The restaurant has five chapters.,neutral
+The restaurant starts at ten.,neutral
+The restaurant arrived this morning.,neutral
+The restaurant takes three days to deliver.,neutral
+The restaurant has a six inch screen.,neutral
+The restaurant was submitted today.,neutral
+The restaurant is scheduled for Friday.,neutral
+The restaurant uses a database.,neutral
+The restaurant runs on a server.,neutral
+The restaurant requires an internet connection.,neutral
+The restaurant has a login page.,neutral
+The restaurant was tested on Monday.,neutral
+The website was delivered yesterday.,neutral
+The website was available today.,neutral
+The website was updated yesterday.,neutral
+The website is located near the station.,neutral
+The website has standard features.,neutral
+The website costs fifty dollars.,neutral
+The website contains several sections.,neutral
+The website was released last month.,neutral
+The website has five chapters.,neutral
+The website starts at ten.,neutral
+The website arrived this morning.,neutral
+The website takes three days to deliver.,neutral
+The website has a six inch screen.,neutral
+The website was submitted today.,neutral
+The website is scheduled for Friday.,neutral
+The website uses a database.,neutral
+The website runs on a server.,neutral
+The website requires an internet connection.,neutral
+The website has a login page.,neutral
+The website was tested on Monday.,neutral
+The phone was delivered yesterday.,neutral
+The phone was available today.,neutral
+The phone was updated yesterday.,neutral
+The phone is located near the station.,neutral
+The phone has standard features.,neutral
+The phone costs fifty dollars.,neutral
+The phone contains several sections.,neutral
+The phone was released last month.,neutral
+The phone has five chapters.,neutral
+The phone starts at ten.,neutral
+The phone arrived this morning.,neutral
+The phone takes three days to deliver.,neutral
+The phone has a six inch screen.,neutral
+The phone was submitted today.,neutral
+The phone is scheduled for Friday.,neutral
+The phone uses a database.,neutral
+The phone runs on a server.,neutral
+The phone requires an internet connection.,neutral
+The phone has a login page.,neutral
+The phone was tested on Monday.,neutral
+The delivery was delivered yesterday.,neutral
+The delivery was available today.,neutral
+The delivery was updated yesterday.,neutral
+The delivery is located near the station.,neutral
+The delivery has standard features.,neutral
+The delivery costs fifty dollars.,neutral
+The delivery contains several sections.,neutral
+The delivery was released last month.,neutral
+The delivery has five chapters.,neutral
+The delivery starts at ten.,neutral
+The delivery arrived this morning.,neutral
+The delivery takes three days to deliver.,neutral
+The delivery has a six inch screen.,neutral
+The delivery was submitted today.,neutral
+The delivery is scheduled for Friday.,neutral
+The delivery uses a database.,neutral
+The delivery runs on a server.,neutral
+The delivery requires an internet connection.,neutral
+The delivery has a login page.,neutral
+The delivery was tested on Monday.,neutral
+The product was delivered yesterday,neutral
+The movie was average,neutral
+The product is okay,neutral
+The package arrived this morning,neutral
+The meeting starts at ten,neutral
+The phone has a standard design,neutral
+The service was available today,neutral
+The book contains five chapters,neutral
+The order was placed online,neutral
+The weather is cloudy today,neutral
+I love spending time with my family and I care about them deeply,positive
+I am extremely excited because I got selected for the internship,positive
+I am very happy because I got selected for my dream job,positive
+I am thrilled about getting selected for the opportunity,positive
+I absolutely adore this wonderful experience,positive
+I feel joyful and excited about my new job,positive
+The good news made me extremely happy,positive
+I am grateful and delighted with the result,positive
+I love this place and feel wonderful here,positive
+I am excited and happy about the opportunity,positive
+I am furious because they ignored my complaint,negative
+I have tried everything and this program still does not work,negative
+I am worried and scared about the result,negative
+I worked so hard but failed the exam and feel disappointed,negative
+This unfair treatment makes me extremely angry,negative
+I am frustrated because nothing is working,negative
+I feel terrible after being treated so badly,negative
+I am disappointed that my application was rejected,negative
+I am angry about the rude and dishonest service,negative
+I am afraid that something bad will happen,negative
+I cannot believe this happened and I did not expect the result,neutral
+The unexpected package was delivered today,neutral
+The meeting is scheduled for tomorrow,neutral
+The report contains three tables,neutral
+The application has a login page,neutral
+The product has two available colors,neutral
+The train arrived at noon,neutral
+The class starts at ten o clock,neutral
+The device supports Bluetooth,neutral
+The event is scheduled for Friday,neutral
